@@ -31,7 +31,6 @@ steps:
   inputs:
     solution: '**/*.sln'
     msbuildVersion: '15.0'
-    msbuildArchitecture: 'x64'
 
 - task: VSTest@2
   inputs:
