@@ -27,11 +27,10 @@ steps:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
 
-- task: VSBuild@1
+- task: MSBuild@1
   inputs:
-    solution: '**\*.sln'
-    vsVersion: '15.0'
-    clean: true
+    solution: '**/*.sln'
+    msbuildVersion: '15.0'
 
 - task: VSTest@2
   inputs:
