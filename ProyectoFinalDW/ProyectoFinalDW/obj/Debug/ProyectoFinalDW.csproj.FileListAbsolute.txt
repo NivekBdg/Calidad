@@ -1,0 +1,146 @@
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\csc.exe
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\csc.exe.config
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\csc.rsp
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\csi.exe
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\csi.rsp
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\System.AppContext.dll
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\vbc.exe
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\vbc.exe.config
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\vbc.rsp
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\ProyectoFinalDW.dll.config
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\ProyectoFinalDW.dll
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\ProyectoFinalDW.pdb
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\obj\Debug\ProyectoFinalDW.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\obj\Debug\ProyectoFinalDW.dll
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\obj\Debug\ProyectoFinalDW.pdb
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\MySql.Data.dll
+C:\Users\Kevin\Source\Repos\NewRepo\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\MySql.Data.xml
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\csc.exe
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\csc.exe.config
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\csc.rsp
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\csi.exe
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\csi.rsp
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\System.AppContext.dll
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\vbc.exe
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\vbc.exe.config
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\vbc.rsp
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\VBCSCompiler.exe
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\ProyectoFinalDW.dll.config
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\ProyectoFinalDW.dll
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\ProyectoFinalDW.pdb
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\bin\MySql.Data.xml
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\obj\Debug\ProyectoFinalDW.csprojResolveAssemblyReference.cache
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\obj\Debug\ProyectoFinalDW.csproj.CoreCompileInputs.cache
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\obj\Debug\ProyectoFinalDW.dll
+C:\Users\BRANDON\Documents\proyecto dw\ProyectoFinalDW\ProyectoFinalDW\obj\Debug\ProyectoFinalDW.pdb
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\obj\Debug\ProyectoFinalDW.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\obj\Debug\ProyectoFinalDW.dll
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\obj\Debug\ProyectoFinalDW.pdb
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\csc.exe
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\csc.exe.config
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\csc.rsp
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\csi.exe
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\csi.rsp
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\System.AppContext.dll
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\vbc.exe
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\vbc.exe.config
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\vbc.rsp
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\ProyectoFinalDW.dll.config
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\ProyectoFinalDW.dll
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\ProyectoFinalDW.pdb
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kevin\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\bin\MySql.Data.xml
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\csc.exe
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\csc.exe.config
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\csc.rsp
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\csi.exe
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\csi.rsp
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\System.AppContext.dll
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\vbc.exe
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\vbc.exe.config
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\vbc.rsp
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\ProyectoFinalDW.dll.config
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\ProyectoFinalDW.dll
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\ProyectoFinalDW.pdb
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\bin\MySql.Data.xml
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\obj\Debug\ProyectoFinalDW.dll
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\obj\Debug\ProyectoFinalDW.pdb
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\obj\Debug\ProyectoFinalDW.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\obj\Debug\ProyectoFinalDW.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\ProyectoFinalDW\ProyectoFinalDW\obj\Debug\ProyectoFinalDW.csproj.CopyComplete
+C:\Users\Kevin\Desktop\clonado\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\obj\Debug\ProyectoFinalDW.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\clonado\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\obj\Debug\ProyectoFinalDW.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\clonado\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\obj\Debug\ProyectoFinalDW.dll
+C:\Users\Kevin\Desktop\clonado\ProyectoFinalDW\ProyectoFinalDW\ProyectoFinalDW\obj\Debug\ProyectoFinalDW.pdb
