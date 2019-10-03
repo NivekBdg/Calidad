@@ -31,6 +31,16 @@ steps:
   inputs:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
+
+- task: SonarQubePrepare@4
+  inputs:
+    SonarQube: 'conexionSonarQube'
+    scannerMode: 'MSBuild'
+    projectKey: 'pruebaUmg'
+    projectName: 'pruebaUmg'
+
+- task: SonarQubeAnalyze@4
+
 - task: SonarQubePublish@4
   inputs:
     pollingTimeoutSec: '300'
