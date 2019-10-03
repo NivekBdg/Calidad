@@ -30,7 +30,7 @@ steps:
 - task: MSBuild@1
   inputs:
     solution: '**/*.sln'
-    msbuildVersion: '14.0'
+    msbuildVersion: '15.0'
     msbuildArchitecture: 'x64'
 
 - task: VSTest@2
