@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
@@ -47,6 +47,7 @@ namespace ProyectoFinalDW.code_data.controller
             return true;
         }
 
+
          public bool ConsultarBebida()
         {
             if(!objHotel.SeleccionarBebida())
@@ -55,6 +56,34 @@ namespace ProyectoFinalDW.code_data.controller
                 return false;
             }
             if(objHotel.dsDaoHotel.Tables[0].Rows.Count < 1)
+            {
+                strReturnMessage = "No existen registros";
+                return false;
+            }
+
+            dsReturn = objHotel.dsDaoHotel;
+            return true;
+        }
+
+        public bool insertarHotel(objetos.objHotel hotel)
+        {
+            if (!objHotel.InsertarHotel(hotel))
+            {
+                strReturnMessage = objHotel.strMensajeError;
+                return false;
+            }
+
+            return true;
+        }
+
+        public bool consultarHoteles()
+        {
+            if (!objHotel.ConsultarHoteles())
+            {
+                strReturnMessage = objHotel.strMensajeError;
+                return false;
+            }
+            if (objHotel.dsDaoHotel.Tables[0].Rows.Count < 1)
             {
                 strReturnMessage = "No existen registros";
                 return false;
