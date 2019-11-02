@@ -5,14 +5,15 @@ using System.Data;
 
 namespace ProyectoFinalDW.code_data
 {
-    
+
 
     public class clsConexion
     {
         private MySqlConnection Conexion;
         public string strMensajeError { get; set; }
         public DataSet dsDaoHotel;
-        public clsConexion() {
+        public clsConexion()
+        {
             IniciarConexion();
         }
 
@@ -75,7 +76,7 @@ namespace ProyectoFinalDW.code_data
                 cmd.CommandText = "SELECT * from usuario WHERE username = @usuario and password = @contra";
                 cmd.Parameters.AddWithValue("@usuario", Usuario.strUser);
                 cmd.Parameters.AddWithValue("@contra", Usuario.strPass);
-                
+
                 try
                 {
                     MySqlDataReader reader = cmd.ExecuteReader();
@@ -95,6 +96,7 @@ namespace ProyectoFinalDW.code_data
             }
             else
             {
+                strMensajeError = "Error al iniciar la conexion";
                 return false;
             }
 
@@ -119,7 +121,7 @@ namespace ProyectoFinalDW.code_data
                 cmd.Parameters.AddWithValue("@direccion", Usuario.strDireccion);
                 cmd.Parameters.AddWithValue("@telefono", Usuario.strTelefono);
 
-               
+
                 try
                 {
                     int reader = cmd.ExecuteNonQuery();
@@ -135,6 +137,7 @@ namespace ProyectoFinalDW.code_data
             }
             else
             {
+                strMensajeError = "Error al iniciar la conexion";
                 return false;
             }
         }
@@ -144,7 +147,7 @@ namespace ProyectoFinalDW.code_data
             try
             {
                 String sql;
-                
+
                 MySqlCommand cm;
                 MySqlDataAdapter da;
                 DataSet ds;
@@ -165,7 +168,7 @@ namespace ProyectoFinalDW.code_data
                 }
                 else
                 {
-                    return false;
+                    throw new Exception("Error al iniciar la conexion");
                 }
             }
             catch (Exception ex)
@@ -177,31 +180,148 @@ namespace ProyectoFinalDW.code_data
 
         }
 
-        public bool InsertarBebida(ObjNuevaBebida Usuario)
+        public bool InsertarHotel(objHotel hotel)
         {
-            
-            bool idnumber = false;
-            MySqlCommand cmd = Conexion.CreateCommand();
-            cmd.CommandText = @" INSERT INTO bebida(precio, nombre, FECHA_VENCIMIENTO, MARCA)  
-                                VALUES(@precio, @nombre, @fecha, @marca)";
-            cmd.Parameters.AddWithValue("@precio", Usuario.strPrecio);
-            cmd.Parameters.AddWithValue("@nombre", Usuario.strBebida);
-            cmd.Parameters.AddWithValue("@fecha", Usuario.strFecha);
-            cmd.Parameters.AddWithValue("@marca", Usuario.strMarca);
 
-           
-            try
+            if (this.OpenConnection())
             {
-                int reader = cmd.ExecuteNonQuery();
-                idnumber = true;
+                bool idnumber = false;
+                MySqlCommand cmd = Conexion.CreateCommand();
+                cmd.CommandText = @" INSERT INTO hotel(nombre, estrellas, direccion, ciudad, telefono)  
+                                VALUES(@nombre, @estrellas, @direccion, @ciudad, @telefono)";
+
+                cmd.Parameters.AddWithValue("@nombre", hotel.strNombreHotel);
+                cmd.Parameters.AddWithValue("@estrellas", hotel.strEstrellas);
+                cmd.Parameters.AddWithValue("@direccion", hotel.strDireccion);
+                cmd.Parameters.AddWithValue("@ciudad", hotel.strCiudad);
+                cmd.Parameters.AddWithValue("@telefono", hotel.strTelefono);
+
+                try
+                {
+                    int reader = cmd.ExecuteNonQuery();
+                    idnumber = true;
+                }
+                catch (Exception e)
+                {
+                    strMensajeError = e.Message;
+                    return false;
+                }
+                this.CloseConnection();
+                return idnumber;
             }
-            catch (Exception e)
+            else
             {
-                strMensajeError = e.Message;
+                strMensajeError = "Error al iniciar la conexion";
                 return false;
             }
-            this.CloseConnection();
-            return idnumber;
+
+
+        }
+
+        public bool ConsultarHoteles()
+        {
+            try
+            {
+                MySqlCommand cm;
+                MySqlDataAdapter da;
+                DataSet ds;
+                String sql = "SELECT * FROM hotel ";
+                if (this.OpenConnection())
+                {
+                    cm = new MySqlCommand();
+                    cm.CommandText = sql;
+                    cm.CommandType = CommandType.Text;
+                    cm.Connection = Conexion;
+                    da = new MySqlDataAdapter(cm);
+
+                    ds = new DataSet();
+                    da.Fill(ds);
+                    dsDaoHotel = ds;
+                    this.CloseConnection();
+                    return true;
+                }
+                else
+                {
+                    throw new Exception("Error al iniciar la conexion");
+                }
+            }
+            catch (Exception ex)
+            {
+                strMensajeError = ex.Message;
+                return false;
+            }
+
+        }
+
+        public bool ConsultarTiempoReserva()
+        {
+            try
+            {
+                String sql;
+
+                MySqlCommand cm;
+                MySqlDataAdapter da;
+                DataSet ds;
+                sql = "SELECT * FROM bebida ";
+                if (this.OpenConnection())
+                {
+                    cm = new MySqlCommand();
+                    cm.CommandText = sql;
+                    cm.CommandType = CommandType.Text;
+                    cm.Connection = Conexion;
+                    da = new MySqlDataAdapter(cm);
+
+                    ds = new DataSet();
+                    da.Fill(ds);
+                    dsDaoHotel = ds;
+                    this.CloseConnection();
+                    return true;
+                }
+                else
+                {
+                    throw new Exception("Error al iniciar la conexion");
+                }
+            }
+            catch (Exception ex)
+            {
+                strMensajeError = ex.Message;
+                return false;
+            }
+
+        }
+
+        public bool InsertarBebida(ObjNuevaBebida Usuario)
+        {
+            if (this.OpenConnection())
+            {
+                bool idnumber = false;
+                MySqlCommand cmd = Conexion.CreateCommand();
+                cmd.CommandText = @" INSERT INTO bebida(precio, nombre, FECHA_VENCIMIENTO, MARCA)  
+                                VALUES(@precio, @nombre, @fecha, @marca)";
+                cmd.Parameters.AddWithValue("@precio", Usuario.strPrecio);
+                cmd.Parameters.AddWithValue("@nombre", Usuario.strBebida);
+                cmd.Parameters.AddWithValue("@fecha", Usuario.strFecha);
+                cmd.Parameters.AddWithValue("@marca", Usuario.strMarca);
+
+
+                try
+                {
+                    int reader = cmd.ExecuteNonQuery();
+                    idnumber = true;
+                }
+                catch (Exception e)
+                {
+                    strMensajeError = e.Message;
+                    return false;
+                }
+                this.CloseConnection();
+                return idnumber;
+            }
+            else
+            {
+                strMensajeError = "Error al iniciar la conexion";
+                return false;
+            }
         }
 
     }

@@ -153,6 +153,7 @@
     <Compile Include="code_data\objetos2\objBebidas.cs" />
     <Compile Include="code_data\objetos\objBebidas.cs" />
     <Compile Include="code_data\objetos\objHabitacion.cs" />
+    <Compile Include="code_data\objetos\objHotel.cs" />
     <Compile Include="code_data\objetos\objNuevaBebida.cs" />
     <Compile Include="code_data\objetos\objNuevoUsuario.cs" />
     <Compile Include="code_data\objetos\objUsuario.cs" />

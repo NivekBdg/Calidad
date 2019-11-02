@@ -76,6 +76,36 @@ namespace ProyectoFinalDW.code_data.dao
             return idnumber;
         }
 
+        public bool InsertarHotel(objHotel hotel)
+        {
+            MySql.Data.MySqlClient.MySqlConnection dbConn = new MySql.Data.MySqlClient.MySqlConnection("Persist Security Info=False;server=localhost;database=hotel_bd;uid=conexion;password=pruebas1.");
+            bool idnumber = false;
+            MySqlCommand cmd = dbConn.CreateCommand();
+            cmd.CommandText = @" INSERT INTO hotel(nombre, estrellas, direccion, ciudad, telefono)  
+                                VALUES('" + hotel.strNombreHotel + "', " + hotel.strEstrellas + ", '" + hotel.strDireccion + "', '" + hotel.strCiudad + "'," +
+                                " '" + hotel.strTelefono + "')";
+
+            try
+            {
+                dbConn.Open();
+            }
+            catch (Exception erro)
+            {
+                strMensajeError = erro.Message;
+                dbConn.Close();
+            }
+            try
+            {
+                int reader = cmd.ExecuteNonQuery();
+            }
+            catch (Exception e)
+            {
+                strMensajeError = e.Message;
+                return false;
+            }
+            return idnumber;
+        }
+
         public bool SeleccionarBebida()
         {
             try
@@ -105,7 +135,7 @@ namespace ProyectoFinalDW.code_data.dao
                 strMensajeError = ex.Message;
                 return false;
             }
-            
+
 
         }
 
