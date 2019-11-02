@@ -12,7 +12,7 @@
     <form id="form1" runat="server" class="modal-body">
         <div class="col-md-5 table-bordered modal-body col-md-offset-4 media-heading">
             <div class="col-md-12 modal-header bg-success">
-                <h3><asp:Label runat="server" Text="Login" CssClass="label"></asp:Label></h3>
+                <h3><asp:Label runat="server" Text="Login hola we" CssClass="label"></asp:Label></h3>
             </div>
             <div class="col-md-12 modal-body">
                 <div class="col-md-10 modal-body">
